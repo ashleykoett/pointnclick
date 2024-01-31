@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HoverAction : MonoBehaviour
+public class ChangeCursorOnHover : MonoBehaviour
 {
     public Texture2D actionCursor;
     public CursorController cursorController;
